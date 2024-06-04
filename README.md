@@ -1,4 +1,4 @@
-<h1>Hi, I'm Radha, an <a href="https://linkedin.com/in/Radha Varma">IT Professional</a>☺</h1>
+<h1>Hi, I'm Radha, an <a href="[https://linkedin.com/in/Radha Varma](https://www.linkedin.com/in/radha-v-61178b75/)">IT Professional</a>☺</h1>
 
 <h2>Information Technology Projects:</h2>
 
